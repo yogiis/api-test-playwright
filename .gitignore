@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+.env
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
