@@ -8,7 +8,7 @@
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:
 
    ```bash
    git clone github.com/yogiis/api-test-playwright
