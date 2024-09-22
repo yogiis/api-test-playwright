@@ -8,7 +8,7 @@
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone github.com/yogiis/api-test-playwright
@@ -16,7 +16,7 @@
    cd github.com/yogiis/api-test-playwright
    ```
 
-2. Install the necessary dependencies**
+2. **Install the necessary dependencies**
 
    ```bash
    npm install
